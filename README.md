@@ -8,4 +8,4 @@ Android app with differents animations using:
 - KTX
 - Material Design
 
-![](https://media.giphy.com/media/oQFDhYRuPejFcIoATk/giphy.gif)
+![](https://media.giphy.com/media/uG6m55oEf74peSP5k8/giphy.gif)
