@@ -7,3 +7,5 @@ Android app with differents animations using:
 - LottieAnimations
 - KTX
 - Material Design
+
+![](https://media.giphy.com/media/oQFDhYRuPejFcIoATk/giphy.gif)
